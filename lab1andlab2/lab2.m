@@ -2,7 +2,7 @@ close all
 clear all
 clc
 
-signal = [0 0 0 1 1 1 0 1 1 1 0 0 0 0 1 0];
+signal = [0 0 0 1 0 1 0 1 1 1 0 0 0 0 1 0];
 sync = [1 0 1];
 
 signalLength = length(signal);
