@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.4)  29 MAY 2018 03:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.4)  29 MAY 2018 01:49
 entering extended mode
-**./lab7.tex
-(lab7.tex
+**./lab8.tex
+(lab8.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
 ("F:\MiKTeX 2.9\tex\latex\extsizes\extarticle.cls"
@@ -1290,12 +1290,28 @@ Package: cancel 2013/04/12 v2.2 Cancel math terms
 ("F:\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypetri.c
 ode.tex"
 File: tikzlibrarypetri.code.tex 2013/07/17 v3.0.1a (rcs-revision 1.3)
-) (lab7.aux
+) (lab8.aux
 LaTeX Font Info:    Try loading font information for T2A+cmr on input line 3.
  ("F:\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd"
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-))
-\openout1 = `lab7.aux'.
+)
+
+LaTeX Warning: Label `any' multiply defined.
+
+
+LaTeX Warning: Label `any' multiply defined.
+
+
+LaTeX Warning: Label `sig' multiply defined.
+
+
+LaTeX Warning: Label `sig' multiply defined.
+
+
+LaTeX Warning: Label `sig' multiply defined.
+
+)
+\openout1 = `lab8.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
@@ -1423,50 +1439,66 @@ your preamble.
 [1
 
 {F:/Users/SashaBoss/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Overfull \hbox (12.48271pt too wide) in paragraph at lines 57--58
-\T2A/cmr/m/n/14.4 Изучение ме-то-дов по-ме-хо-устой-чи-во-го ко-ди-ро-ва-ния и 
-срав-не-ние их свойств: 
- []
+[1]
+<psp.png, id=15, 885.3075pt x 243.15843pt>
+File: psp.png Graphic file (type png)
+<use psp.png>
+Package pdftex.def Info: psp.png  used on input line 80.
+(pdftex.def)             Requested size: 430.31812pt x 118.1914pt.
+<interleaver.png, id=17, 591.71063pt x 156.585pt>
+File: interleaver.png Graphic file (type png)
+<use interleaver.png>
+Package pdftex.def Info: interleaver.png  used on input line 90.
+(pdftex.def)             Requested size: 430.31812pt x 113.8784pt.
+<read.png, id=18, 581.17125pt x 75.28125pt>
+File: read.png Graphic file (type png)
+<use read.png>
+Package pdftex.def Info: read.png  used on input line 100.
+(pdftex.def)             Requested size: 430.31812pt x 55.7417pt.
+ [2 <./psp.png> <./interleaver.png>]
+<reim.png, id=25, 435.87843pt x 141.52875pt>
+File: reim.png Graphic file (type png)
+<use reim.png>
+Package pdftex.def Info: reim.png  used on input line 110.
+(pdftex.def)             Requested size: 430.31812pt x 139.723pt.
+<walsh.png, id=26, 583.42969pt x 423.83344pt>
+File: walsh.png Graphic file (type png)
+<use walsh.png>
+Package pdftex.def Info: walsh.png  used on input line 120.
+(pdftex.def)             Requested size: 430.31812pt x 312.61647pt.
+<preint.png, id=27, 361.35pt x 247.67531pt>
+File: preint.png Graphic file (type png)
+<use preint.png>
+Package pdftex.def Info: preint.png  used on input line 130.
+(pdftex.def)             Requested size: 430.31812pt x 294.9489pt.
+ [3 <./read.png> <./reim.png> <./walsh.png>]
+<postint.png, id=34, 954.56625pt x 139.27031pt>
+File: postint.png Graphic file (type png)
+<use postint.png>
+Package pdftex.def Info: postint.png  used on input line 140.
+(pdftex.def)             Requested size: 430.31812pt x 62.78156pt.
+ [4 <./preint.png> <./postint.png>] [5] (lab8.aux)
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 59.
-("F:\MiKTeX 2.9\tex\latex\base\omscmr.fd"
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 59.
- [1]
-LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 79.
+LaTeX Warning: There were multiply-defined labels.
 
-
-("F:\MiKTeX 2.9\tex\latex\cyrillic\t2acmtt.fd"
-File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-) [2] [3]
-<waterfall.png, id=24, 980.91469pt x 517.935pt>
-File: waterfall.png Graphic file (type png)
-<use waterfall.png>
-Package pdftex.def Info: waterfall.png  used on input line 205.
-(pdftex.def)             Requested size: 430.31812pt x 227.21243pt.
- [4] [5 <./waterfall.png>] [6] (lab7.aux) ) 
+ ) 
 Here is how much of TeX's memory you used:
- 29782 strings out of 493305
- 712868 string characters out of 3144911
- 982436 words of memory out of 3000000
- 32778 multiletter control sequences out of 15000+200000
- 9383 words of font info for 23 fonts, out of 3000000 for 9000
+ 29775 strings out of 493305
+ 712388 string characters out of 3144911
+ 983485 words of memory out of 3000000
+ 32773 multiletter control sequences out of 15000+200000
+ 8816 words of font info for 21 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,6n,96p,1105b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
- <F:\Users\SashaBoss\AppData\Local\M
-iKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\latt1440.pk> <F:\Users\SashaBoss\App
-Data\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1728.pk> <F:\Users\S
-ashaBoss\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx2074.pk>
- <F:\Users\SashaBoss\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\
-larm1728.pk> <F:\Users\SashaBoss\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh
--t2a\dpi600\larm1440.pk> <F:\Users\SashaBoss\AppData\Local\MiKTeX\2.9\fonts\pk\
-ljfour\lh\lh-t2a\dpi600\labx1440.pk><F:/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmsy10.pfb>
-Output written on lab7.pdf (7 pages, 120941 bytes).
+ 62i,6n,96p,1824b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <F:\Users\SashaBoss\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi60
+0\labx1728.pk> <F:\Users\SashaBoss\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\
+lh-t2a\dpi600\labx2074.pk> <F:\Users\SashaBoss\AppData\Local\MiKTeX\2.9\fonts\p
+k\ljfour\lh\lh-t2a\dpi600\larm1728.pk> <F:\Users\SashaBoss\AppData\Local\MiKTeX
+\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1440.pk> <F:\Users\SashaBoss\AppData\
+Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1440.pk>
+Output written on lab8.pdf (6 pages, 154571 bytes).
 PDF statistics:
- 278 PDF objects out of 1000 (max. 8388607)
+ 236 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 48 words of extra memory for PDF output out of 10000 (max. 10000000)
 

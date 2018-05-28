@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.4)  18 MAY 2018 03:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.4)  29 MAY 2018 00:52
 entering extended mode
 **./lab6.tex
 (lab6.tex
@@ -1301,6 +1301,9 @@ LaTeX Warning: Label `any' multiply defined.
 
 LaTeX Warning: Label `any' multiply defined.
 
+
+LaTeX Warning: Label `sig' multiply defined.
+
 )
 \openout1 = `lab6.aux'.
 
@@ -1465,16 +1468,23 @@ File: oqpsk.png Graphic file (type png)
 <use oqpsk.png>
 Package pdftex.def Info: oqpsk.png  used on input line 113.
 (pdftex.def)             Requested size: 430.31812pt x 485.67865pt.
- [4 <./msk.png>] [5 <./oqpsk.png>] [6] (lab6.aux)
+ [4 <./msk.png>]
+<waterfall.png, id=34, 421.575pt x 356.83313pt>
+File: waterfall.png Graphic file (type png)
+<use waterfall.png>
+Package pdftex.def Info: waterfall.png  used on input line 123.
+(pdftex.def)             Requested size: 430.31812pt x 364.24265pt.
+ [5 <./oqpsk.png>] [6 <./waterfall.png>]
+[7] (lab6.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 29779 strings out of 493305
- 712434 string characters out of 3144911
+ 29784 strings out of 493305
+ 712518 string characters out of 3144911
  982485 words of memory out of 3000000
- 32776 multiletter control sequences out of 15000+200000
+ 32780 multiletter control sequences out of 15000+200000
  9073 words of font info for 22 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,6n,96p,1204b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1485,9 +1495,9 @@ k\ljfour\lh\lh-t2a\dpi600\larm1728.pk> <F:\Users\SashaBoss\AppData\Local\MiKTeX
 \2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1440.pk> <F:\Users\SashaBoss\AppData\
 Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1440.pk><F:/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on lab6.pdf (7 pages, 143526 bytes).
+Output written on lab6.pdf (8 pages, 161032 bytes).
 PDF statistics:
- 240 PDF objects out of 1000 (max. 8388607)
+ 249 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
