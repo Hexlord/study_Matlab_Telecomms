@@ -1,2 +1,1 @@
-# telecom
-Лабораторные работы по курсу "Телекоммуникационные технологии" в СПбПУ
+Lab exercises on Telecommunication technologies completed during studies (matlab, latex)
